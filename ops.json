@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "3cf043e3-4636-3ab9-beaa-07ca7fa9ddec",
+    "name": "Doctah",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6042e319-39b2-3c2f-a7c7-2bd57f129f67",
+    "name": "Zyyntrix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e77184ad-8c59-3512-bf84-5caf6c95eb27",
+    "name": "DoctahX",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d2923549-dfcd-3c15-96be-ce3d589fa354",
+    "name": "Vex",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
